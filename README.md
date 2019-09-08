@@ -25,3 +25,5 @@ The screen is splitted into 3 equal parts vertically. Below is the mapping betwe
 
 
 Below is a short demostration:<br />
+
+![alt text](https://github.com/PranavBansal04/Mario-Using-Hand-Gesture-Recognition/blob/master/demo.gif)
